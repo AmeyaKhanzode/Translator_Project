@@ -1,0 +1,17 @@
+English: en
+Spanish: es
+French: fr
+German: de
+Italian: it
+Chinese: zh
+Japanese: ja
+Russian: ru
+Portuguese: pt
+Arabic: ar
+Dutch: nl
+Korean: ko
+Turkish: tr
+Swedish: sv
+Polish: pl
+Norwegian: no
+Danish: da
