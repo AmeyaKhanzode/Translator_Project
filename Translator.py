@@ -18,4 +18,4 @@ class Translate:
         if response.status_code == 200:
             data = response.json()
             translation = data["responseData"]["translatedText"]
-            print(translation)
+            print("Translated text:",translation)
